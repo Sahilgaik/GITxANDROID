@@ -47,7 +47,7 @@ class HomeRoute extends StatelessWidget {
 
         appBar: AppBar(
 
-          title: Text('Original Screen'),
+          title: Text('pehlewala Screen'),
 
           backgroundColor: Colors.black,
 
@@ -71,7 +71,7 @@ class HomeRoute extends StatelessWidget {
 
             },
 
-            child: Text('Next Screen'),
+            child: Text('Agla Screen'),
 
           ),
 
